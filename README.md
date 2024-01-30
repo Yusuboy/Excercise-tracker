@@ -24,8 +24,8 @@ The Exercise Tracker App allows users to log their daily exercises, track durati
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/exercise-tracker.git`
-2. Navigate to the project directory: `cd exercise-tracker`
+1. Clone the repository: `git clon egit@github.com:Yusuboy/Excercise-tracker.git`
+2. Navigate to the project directory: `cd mern-exercise-tracker`
 3. Install dependencies: `npm install`
 4. Set up MongoDB: Create a MongoDB database and update the connection string in `config/default.json`.
 5. Start the application: `npm start`
