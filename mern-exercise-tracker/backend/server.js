@@ -24,7 +24,7 @@ const exercisesRouter = require('./routes/exercises');
 const userRouter = require('./routes/users');
 
 app.use('/exercises', exercisesRouter);
-app.use('/user', userRouter);
+app.use('/users', userRouter);
 
 
 app.listen(port, () => {
