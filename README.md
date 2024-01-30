@@ -6,7 +6,6 @@ Track and log your exercises with this full-stack web application built with Jav
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
 ## Overview
