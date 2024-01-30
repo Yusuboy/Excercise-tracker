@@ -15,7 +15,6 @@ Track and log your exercises with this full-stack web application built with Jav
 
 The Exercise Tracker App allows users to log their daily exercises, track durations, and view their exercise history.
 
-![Screenshot](./screenshots/screenshot.png)
 
 ## Features
 
