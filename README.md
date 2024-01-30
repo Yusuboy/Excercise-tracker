@@ -8,8 +8,6 @@ Track and log your exercises with this full-stack web application built with Jav
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -36,11 +34,3 @@ The Exercise Tracker App allows users to log their daily exercises, track durati
 - **Frontend:** JavaScript (React.js), HTML, CSS
 - **Backend:** JavaScript (Node.js, Express.js)
 - **Database:** MongoDB
-
-
-## Contributing
-
-Feel free to contribute by reporting bugs, suggesting enhancements, or submitting pull requests. 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
