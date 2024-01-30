@@ -1,5 +1,3 @@
-# Excercise-tracker
-
 # Exercise Tracker App
 
 Track and log your exercises with this full-stack web application built with JavaScript, React, MongoDB, Express.js, and Node.js.
