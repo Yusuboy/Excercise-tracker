@@ -1,0 +1,45 @@
+/* ExercisesList.css */
+
+.exercises-list-container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #f8f9fa; /* Light gray background color */
+    color: #212529; /* Dark text color */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    color: #212529; /* Dark heading color */
+    text-align: center;
+  }
+  
+  .table th {
+    background-color: #343a40; /* Dark gray table header background color */
+    color: #fff;
+  }
+  
+  .table td {
+    background-color: #495057; /* Darker gray table cell background color */
+  }
+  
+  .table a {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .table a:hover {
+    text-decoration: underline;
+  }
+  
+  .table .delete-link {
+    color: #dc3545; /* Red color for delete link */
+  }
+  
+  .table .delete-link:hover {
+    text-decoration: underline;
+  }
+  

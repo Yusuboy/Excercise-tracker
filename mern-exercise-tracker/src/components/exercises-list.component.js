@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import './ExercisesList.css'; // Import the CSS file
 
 const Exercise = props => (
   <tr>
